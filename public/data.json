@@ -1,0 +1,32 @@
+[
+      {
+        "id": 1,
+        "name": "ANDREW FILDER",
+        "username": "Wedding Shoot",
+        "image": "images/p42.jpg" ,
+        "text":  "From the moment we met, they made us feel comfortable. Every photo from our wedding feels like a memory frozen in time — full of love and laughter. Truly magical!"
+      },
+      {
+        "id": 2,
+        "name": "DAVID GUETTA",
+        "username": "Event Photography",
+        "image": "images/p44.jpg",
+        "text": "I hired them for my music event, and the shots were incredible. They captured energy, movement, and even the quiet moments in between. Highly professional."
+      },
+      {
+        "id": 3,
+        "name": "BEBE REXHA",
+        "username": "Portrait Session",
+        "image": "images/p43.jpg",
+        "text": "I’ve never felt more confident in front of a camera. The portraits turned out stunning and felt so natural. Their eye for detail is amazing!"
+      },
+      {
+        "id": 4,
+        "name": "ADAM LEVINE",
+        "username": "Travel/Lifestyle Photography",
+        "image": "images/p45.jpg",
+        "text": "They managed to turn a simple travel shoot into a work of art. Each photo tells a story — vibrant, real, and full of emotion. Can't wait to shoot again!"
+      }
+    ]
+  
+  
