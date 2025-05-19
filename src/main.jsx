@@ -35,8 +35,13 @@ const router =createHashRouter([
     path:'/Contact',
     element:<Contact/>
   }
-]
+],
+{
+basename: '/StylishPic'
+}
 );
+
+ 
 
 
 
